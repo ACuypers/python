@@ -1,0 +1,1086 @@
+{
+	"intMes": 6,
+	"intAno": 2022,
+	"empresas": [
+		{
+			"id": 1,
+			"cnpj": "19.662.039/0001-00",
+			"nomeFantasia": "BULL PRIME BATEL",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 296850.81,
+				"valVendaBrutaAdicionais": 12940.94,
+				"valVendaBruta": 309791.75,
+				"valCancelamentosItens": 13372.02,
+				"valCancelamentosAdicionais": 266.34,
+				"valCancelamentos": 13638.36,
+				"valVendaEfetiva": 323430.11,
+				"valDescontosItens": 1762.63,
+				"valDescontosAdicionais": 3430.23,
+				"valDescontos": 5192.86,
+				"valVendaLiquida": 290960.53,
+				"quantidadeTotalComandasPagas": 1285,
+				"quantidadeTotalPessoasPagas": 1963
+			}
+		},
+		{
+			"id": 2,
+			"cnpj": "19.662.039/0002-83",
+			"nomeFantasia": "BULL PRIME - BARIGUI",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 329349.64,
+				"valVendaBrutaAdicionais": 31,
+				"valVendaBruta": 329380.64,
+				"valCancelamentosItens": 66845.53,
+				"valCancelamentosAdicionais": 1,
+				"valCancelamentos": 66846.53,
+				"valVendaEfetiva": 396227.17,
+				"valDescontosItens": 19.98,
+				"valDescontosAdicionais": 1906.26,
+				"valDescontos": 1926.24,
+				"valVendaLiquida": 260607.87,
+				"quantidadeTotalComandasPagas": 1719,
+				"quantidadeTotalPessoasPagas": 1752
+			}
+		},
+		{
+			"id": 3,
+			"cnpj": "19.662.039/0003-64",
+			"nomeFantasia": "BULL PRIME PATIO BATEL",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 368404.92,
+				"valVendaBrutaAdicionais": 35735.26,
+				"valVendaBruta": 404140.18,
+				"valCancelamentosItens": 3487.3,
+				"valCancelamentosAdicionais": 208.39,
+				"valCancelamentos": 3695.69,
+				"valVendaEfetiva": 407835.87,
+				"valDescontosItens": 1976.42,
+				"valDescontosAdicionais": 761.86,
+				"valDescontos": 2738.28,
+				"valVendaLiquida": 397706.21,
+				"quantidadeTotalComandasPagas": 1539,
+				"quantidadeTotalPessoasPagas": 3403
+			}
+		},
+		{
+			"id": 5,
+			"cnpj": "19.662.039/0004-45",
+			"nomeFantasia": "BULL PRIME CABRAL",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 180791.83,
+				"valVendaBrutaAdicionais": 3805.28,
+				"valVendaBruta": 184597.11,
+				"valCancelamentosItens": 5373.69,
+				"valCancelamentosAdicionais": 160.04,
+				"valCancelamentos": 5533.73,
+				"valVendaEfetiva": 190130.84,
+				"valDescontosItens": 1980.54,
+				"valDescontosAdicionais": 533.69,
+				"valDescontos": 2514.23,
+				"valVendaLiquida": 176549.15,
+				"quantidadeTotalComandasPagas": 1080,
+				"quantidadeTotalPessoasPagas": 1292
+			}
+		},
+		{
+			"id": 7,
+			"cnpj": "19.662.039/0006-07",
+			"nomeFantasia": "BULL PRIME - JOINVILLE",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 158334.99,
+				"valVendaBrutaAdicionais": 14005.41,
+				"valVendaBruta": 172340.4,
+				"valCancelamentosItens": 2814.44,
+				"valCancelamentosAdicionais": 1419.33,
+				"valCancelamentos": 4233.77,
+				"valVendaEfetiva": 176574.17,
+				"valDescontosItens": 8236.37,
+				"valDescontosAdicionais": 406.59,
+				"valDescontos": 8642.96,
+				"valVendaLiquida": 159463.67,
+				"quantidadeTotalComandasPagas": 821,
+				"quantidadeTotalPessoasPagas": 1463
+			}
+		},
+		{
+			"id": 21,
+			"cnpj": "19.662.039/0008-79",
+			"nomeFantasia": "BULL PRIME JOINVILLE RUA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 422601.25,
+				"valVendaBrutaAdicionais": 3992.41,
+				"valVendaBruta": 426593.66,
+				"valCancelamentosItens": 339740.19,
+				"valCancelamentosAdicionais": 165.27,
+				"valCancelamentos": 339905.46,
+				"valVendaEfetiva": 766499.12,
+				"valDescontosItens": 3500.48,
+				"valDescontosAdicionais": 1282.13,
+				"valDescontos": 4782.61,
+				"valVendaLiquida": 81905.59,
+				"quantidadeTotalComandasPagas": 494,
+				"quantidadeTotalPessoasPagas": 690
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 25,
+			"cnpj": "41.763.084/0001-00",
+			"nomeFantasia": "MAXIMUS BURGUER",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 94011.21,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 94011.21,
+				"valCancelamentosItens": 13939.5,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 13939.5,
+				"valVendaEfetiva": 107950.71,
+				"valDescontosItens": 0,
+				"valDescontosAdicionais": 13.33,
+				"valDescontos": 13.33,
+				"valVendaLiquida": 80058.38,
+				"quantidadeTotalComandasPagas": 2217,
+				"quantidadeTotalPessoasPagas": 2217
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		},
+		{
+			"id": 22,
+			"cnpj": "38.436.516/0001-56",
+			"nomeFantasia": "MARIA QUEIJARIA",
+			"resumoFinanceiro": {
+				"valVendaBrutaItens": 69945.18,
+				"valVendaBrutaAdicionais": 0,
+				"valVendaBruta": 69945.18,
+				"valCancelamentosItens": 60008.19,
+				"valCancelamentosAdicionais": 0,
+				"valCancelamentos": 60008.19,
+				"valVendaEfetiva": 129953.37,
+				"valDescontosItens": 83.2,
+				"valDescontosAdicionais": 495.57,
+				"valDescontos": 578.77,
+				"valVendaLiquida": 9358.22,
+				"quantidadeTotalComandasPagas": 95,
+				"quantidadeTotalPessoasPagas": 95
+			}
+		}
+	]
+}

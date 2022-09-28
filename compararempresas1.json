@@ -1,0 +1,26 @@
+{
+    "intMes": 6,
+    "intAno": 2022,
+    "empresas": [
+        {
+            "id": 1,
+            "cnpj": "19.662.039/0001-00",
+            "nomeFantasia": "BULL PRIME BATEL",
+            "resumoFinanceiro": {
+                "valVendaBrutaItens": 296850.81,
+                "valVendaBrutaAdicionais": 12940.94,
+                "valVendaBruta": 309791.75,
+                "valCancelamentosItens": 13372.02,
+                "valCancelamentosAdicionais": 266.34,
+                "valCancelamentos": 13638.36,
+                "valVendaEfetiva": 323430.11,
+                "valDescontosItens": 1762.63,
+                "valDescontosAdicionais": 3430.23,
+                "valDescontos": 5192.86,
+                "valVendaLiquida": 290960.53,
+                "quantidadeTotalComandasPagas": 1285,
+                "quantidadeTotalPessoasPagas": 1963
+            }
+        }
+    ]
+}
