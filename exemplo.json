@@ -1,0 +1,338 @@
+{
+    "intMes": 6,
+    "intAno": 2022,
+    "empresas": {
+        "id": 1,
+        "cnpj": "38.436.516/0001-56",
+        "nomeFantasia": "TESTE ENGENHARIA",
+        "resumoFinanceiro": {
+            "valVendaBrutaItens": 69945.18,
+            "valVendaBrutaAdicionais": 0,
+            "valVendaBruta": 69945.18,
+            "valCancelamentosItens": 60008.19,
+            "valCancelamentosAdicionais": 0,
+            "valCancelamentos": 60008.19,
+            "valVendaEfetiva": 129953.37,
+            "valDescontosItens": 83.2,
+            "valDescontosAdicionais": 495.57,
+            "valDescontos": 578.77,
+            "valVendaLiquida": 9358.22,
+            "quantidadeTotalComandasPagas": 1216,
+            "quantidadeTotalPessoasPagas": 635
+        }
+    }
+}{
+    "id":2, 
+    "cnpj":"38.436.516/0001-56", 
+    "nomeFantasia":"TESTE ENGENHARIA", 
+    "resumoFinanceiro":{
+        "valVendaBrutaItens":69945.18, 
+        "valVendaBrutaAdicionais":0, 
+        "valVendaBruta":69945.18, 
+        "valCancelamentosItens":60008.19, 
+        "valCancelamentosAdicionais":0, 
+        "valCancelamentos":60008.19, 
+        "valVendaEfetiva":129953.37, 
+        "valDescontosItens":83.2, 
+        "valDescontosAdicionais":495.57, 
+        "valDescontos":578.77, 
+        "valVendaLiquida":9358.22, 
+        "quantidadeTotalComandasPagas":656, 
+        "quantidadeTotalPessoasPagas":1189
+    }
+}{
+    "id":3, 
+    "cnpj":"38.436.516/0001-56", 
+    "nomeFantasia":"TESTE ENGENHARIA", 
+    "resumoFinanceiro":{
+        "valVendaBrutaItens":69945.18, 
+        "valVendaBrutaAdicionais":0, 
+        "valVendaBruta":69945.18, 
+        "valCancelamentosItens":60008.19, 
+        "valCancelamentosAdicionais":0, 
+        "valCancelamentos":60008.19, 
+        "valVendaEfetiva":129953.37, 
+        "valDescontosItens":83.2, 
+        "valDescontosAdicionais":495.57, 
+        "valDescontos":578.77, 
+        "valVendaLiquida":9358.22, 
+        "quantidadeTotalComandasPagas":568, 
+        "quantidadeTotalPessoasPagas":1073
+    }
+}{
+    "id":4, 
+    "cnpj":"38.436.516/0001-56", 
+    "nomeFantasia":"TESTE ENGENHARIA", 
+    "resumoFinanceiro":{
+        "valVendaBrutaItens":69945.18, 
+        "valVendaBrutaAdicionais":0, 
+        "valVendaBruta":69945.18, 
+        "valCancelamentosItens":60008.19, 
+        "valCancelamentosAdicionais":0, 
+        "valCancelamentos":60008.19, 
+        "valVendaEfetiva":129953.37, 
+        "valDescontosItens":83.2, 
+        "valDescontosAdicionais":495.57, 
+        "valDescontos":578.77, 
+        "valVendaLiquida":9358.22, 
+        "quantidadeTotalComandasPagas":167, 
+        "quantidadeTotalPessoasPagas":1112
+    }
+}{
+    "id":5, 
+    "cnpj":"38.436.516/0001-56", 
+    "nomeFantasia":"TESTE ENGENHARIA", 
+    "resumoFinanceiro":{
+        "valVendaBrutaItens":69945.18, 
+        "valVendaBrutaAdicionais":0, 
+        "valVendaBruta":69945.18, 
+        "valCancelamentosItens":60008.19, 
+        "valCancelamentosAdicionais":0, 
+        "valCancelamentos":60008.19, 
+        "valVendaEfetiva":129953.37, 
+        "valDescontosItens":83.2, 
+        "valDescontosAdicionais":495.57, 
+        "valDescontos":578.77, 
+        "valVendaLiquida":9358.22, 
+        "quantidadeTotalComandasPagas":1088, 
+        "quantidadeTotalPessoasPagas":778
+    }
+}{
+    "id":6, 
+    "cnpj":"38.436.516/0001-56", 
+    "nomeFantasia":"TESTE ENGENHARIA", 
+    "resumoFinanceiro":{
+        "valVendaBrutaItens":69945.18, 
+        "valVendaBrutaAdicionais":0, 
+        "valVendaBruta":69945.18, 
+        "valCancelamentosItens":60008.19, 
+        "valCancelamentosAdicionais":0, 
+        "valCancelamentos":60008.19, 
+        "valVendaEfetiva":129953.37, 
+        "valDescontosItens":83.2, 
+        "valDescontosAdicionais":495.57, 
+        "valDescontos":578.77, 
+        "valVendaLiquida":9358.22, 
+        "quantidadeTotalComandasPagas":1449, 
+        "quantidadeTotalPessoasPagas":1842
+    }
+}{
+    "id":7, 
+    "cnpj":"38.436.516/0001-56", 
+    "nomeFantasia":"TESTE ENGENHARIA", 
+    "resumoFinanceiro":{
+        "valVendaBrutaItens":69945.18, 
+        "valVendaBrutaAdicionais":0, 
+        "valVendaBruta":69945.18, 
+        "valCancelamentosItens":60008.19, 
+        "valCancelamentosAdicionais":0, 
+        "valCancelamentos":60008.19, 
+        "valVendaEfetiva":129953.37, 
+        "valDescontosItens":83.2, 
+        "valDescontosAdicionais":495.57, 
+        "valDescontos":578.77, 
+        "valVendaLiquida":9358.22, 
+        "quantidadeTotalComandasPagas":1441, 
+        "quantidadeTotalPessoasPagas":675
+    }
+}{
+    "id":8, 
+    "cnpj":"38.436.516/0001-56", 
+    "nomeFantasia":"TESTE ENGENHARIA", 
+    "resumoFinanceiro":{
+        "valVendaBrutaItens":69945.18, 
+        "valVendaBrutaAdicionais":0, 
+        "valVendaBruta":69945.18, 
+        "valCancelamentosItens":60008.19, 
+        "valCancelamentosAdicionais":0, 
+        "valCancelamentos":60008.19, 
+        "valVendaEfetiva":129953.37, 
+        "valDescontosItens":83.2, 
+        "valDescontosAdicionais":495.57, 
+        "valDescontos":578.77, 
+        "valVendaLiquida":9358.22, 
+        "quantidadeTotalComandasPagas":1909, 
+        "quantidadeTotalPessoasPagas":1177
+    }
+}{
+    "id":9, 
+    "cnpj":"38.436.516/0001-56", 
+    "nomeFantasia":"TESTE ENGENHARIA", 
+    "resumoFinanceiro":{
+        "valVendaBrutaItens":69945.18, 
+        "valVendaBrutaAdicionais":0, 
+        "valVendaBruta":69945.18, 
+        "valCancelamentosItens":60008.19, 
+        "valCancelamentosAdicionais":0, 
+        "valCancelamentos":60008.19, 
+        "valVendaEfetiva":129953.37, 
+        "valDescontosItens":83.2, 
+        "valDescontosAdicionais":495.57, 
+        "valDescontos":578.77, 
+        "valVendaLiquida":9358.22, 
+        "quantidadeTotalComandasPagas":1673, 
+        "quantidadeTotalPessoasPagas":1207
+    }
+}{
+    "id":10, 
+    "cnpj":"38.436.516/0001-56", 
+    "nomeFantasia":"TESTE ENGENHARIA", 
+    "resumoFinanceiro":{
+        "valVendaBrutaItens":69945.18, 
+        "valVendaBrutaAdicionais":0, 
+        "valVendaBruta":69945.18, 
+        "valCancelamentosItens":60008.19, 
+        "valCancelamentosAdicionais":0, 
+        "valCancelamentos":60008.19, 
+        "valVendaEfetiva":129953.37, 
+        "valDescontosItens":83.2, 
+        "valDescontosAdicionais":495.57, 
+        "valDescontos":578.77, 
+        "valVendaLiquida":9358.22, 
+        "quantidadeTotalComandasPagas":116, 
+        "quantidadeTotalPessoasPagas":1837
+    }
+}{
+    "id":11, 
+    "cnpj":"38.436.516/0001-56", 
+    "nomeFantasia":"TESTE ENGENHARIA", 
+    "resumoFinanceiro":{
+        "valVendaBrutaItens":69945.18, 
+        "valVendaBrutaAdicionais":0, 
+        "valVendaBruta":69945.18, 
+        "valCancelamentosItens":60008.19, 
+        "valCancelamentosAdicionais":0, 
+        "valCancelamentos":60008.19, 
+        "valVendaEfetiva":129953.37, 
+        "valDescontosItens":83.2, 
+        "valDescontosAdicionais":495.57, 
+        "valDescontos":578.77, 
+        "valVendaLiquida":9358.22, 
+        "quantidadeTotalComandasPagas":1570, 
+        "quantidadeTotalPessoasPagas":1259
+    }
+}{
+    "id":12, 
+    "cnpj":"38.436.516/0001-56", 
+    "nomeFantasia":"TESTE ENGENHARIA", 
+    "resumoFinanceiro":{
+        "valVendaBrutaItens":69945.18, 
+        "valVendaBrutaAdicionais":0, 
+        "valVendaBruta":69945.18, 
+        "valCancelamentosItens":60008.19, 
+        "valCancelamentosAdicionais":0, 
+        "valCancelamentos":60008.19, 
+        "valVendaEfetiva":129953.37, 
+        "valDescontosItens":83.2, 
+        "valDescontosAdicionais":495.57, 
+        "valDescontos":578.77, 
+        "valVendaLiquida":9358.22, 
+        "quantidadeTotalComandasPagas":1358, 
+        "quantidadeTotalPessoasPagas":1816
+    }
+}{
+    "id":13, 
+    "cnpj":"38.436.516/0001-56", 
+    "nomeFantasia":"TESTE ENGENHARIA", 
+    "resumoFinanceiro":{
+        "valVendaBrutaItens":69945.18, 
+        "valVendaBrutaAdicionais":0, 
+        "valVendaBruta":69945.18, 
+        "valCancelamentosItens":60008.19, 
+        "valCancelamentosAdicionais":0, 
+        "valCancelamentos":60008.19, 
+        "valVendaEfetiva":129953.37, 
+        "valDescontosItens":83.2, 
+        "valDescontosAdicionais":495.57, 
+        "valDescontos":578.77, 
+        "valVendaLiquida":9358.22, 
+        "quantidadeTotalComandasPagas":1487, 
+        "quantidadeTotalPessoasPagas":1255
+    }
+}{
+    "id":14, 
+    "cnpj":"38.436.516/0001-56", 
+    "nomeFantasia":"TESTE ENGENHARIA", 
+    "resumoFinanceiro":{
+        "valVendaBrutaItens":69945.18, 
+        "valVendaBrutaAdicionais":0, 
+        "valVendaBruta":69945.18, 
+        "valCancelamentosItens":60008.19, 
+        "valCancelamentosAdicionais":0, 
+        "valCancelamentos":60008.19, 
+        "valVendaEfetiva":129953.37, 
+        "valDescontosItens":83.2, 
+        "valDescontosAdicionais":495.57, 
+        "valDescontos":578.77, 
+        "valVendaLiquida":9358.22, 
+        "quantidadeTotalComandasPagas":1583, 
+        "quantidadeTotalPessoasPagas":1110
+    }
+}{
+    "intMes": 6,
+    "intAno": 2022,
+    "empresas": [
+        {
+            "id": 1,
+            "cnpj": "19.662.039/0001-1",
+            "nomeFantasia": "TESTE ENGENHARIA1",
+            "resumoFinanceiro": {
+                "valVendaBrutaItens": 22263585,
+                "valVendaBrutaAdicionais": 22481,
+                "valVendaBruta": 22286066,
+                "valCancelamentosItens": 147890,
+                "valCancelamentosAdicionais": 820,
+                "valCancelamentos": 148710,
+                "valVendaEfetiva": 22137356,
+                "valDescontosItens": 90376,
+                "valDescontosAdicionais": 622,
+                "valDescontos": 90998,
+                "valVendaLiquida": 22046358,
+                "quantidadeTotalComandasPagas": 1760,
+                "quantidadeTotalPessoasPagas": 993
+            }
+        }
+    ]
+}[
+    {
+        "id":2, 
+        "cnpj":"19.662.039/0001-1", 
+        "nomeFantasia":"TESTE ENGENHARIA1", 
+        "resumoFinanceiro":{
+            "valVendaBrutaItens":10773699, 
+            "valVendaBrutaAdicionais":28122, 
+            "valVendaBruta":10801821, 
+            "valCancelamentosItens":32211, 
+            "valCancelamentosAdicionais":876, 
+            "valCancelamentos":33087, 
+            "valVendaEfetiva":10768734, 
+            "valDescontosItens":19768, 
+            "valDescontosAdicionais":938, 
+            "valDescontos":20706, 
+            "valVendaLiquida":10748028, 
+            "quantidadeTotalComandasPagas":1436, 
+            "quantidadeTotalPessoasPagas":1928
+        }
+    }
+][
+    {
+        "id":3, 
+        "cnpj":"19.662.039/0001-1", 
+        "nomeFantasia":"TESTE ENGENHARIA1", 
+        "resumoFinanceiro":{
+            "valVendaBrutaItens":26958592, 
+            "valVendaBrutaAdicionais":30209, 
+            "valVendaBruta":26988801, 
+            "valCancelamentosItens":58766, 
+            "valCancelamentosAdicionais":834, 
+            "valCancelamentos":59600, 
+            "valVendaEfetiva":26929201, 
+            "valDescontosItens":67155, 
+            "valDescontosAdicionais":121, 
+            "valDescontos":67276, 
+            "valVendaLiquida":26861925, 
+            "quantidadeTotalComandasPagas":978, 
+            "quantidadeTotalPessoasPagas":1583
+        }
+    }
+]

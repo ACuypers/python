@@ -24,7 +24,7 @@ while MaximoId > 0:
                 "valVendaLiquida": 9358.22,
                 "quantidadeTotalComandasPagas": quantidadeTotalComandasPagas,
                 "quantidadeTotalPessoasPagas": quantidadeTotalPessoasPagas
-    },
+    }
 
     dados =	{
         
@@ -42,14 +42,14 @@ while MaximoId > 0:
         }
 
         converter = json.dumps(cabecalhoJson, indent=4)
-
+        
     else:
         with open ("exemplo.json","a") as outfile:
             outfile.write(converter)
         converter = json.dumps(dados, indent=4, separators=(', ',':'))
         # Mudei de W para a merda do A e começou a escrever correto
-        with open ("exemplo.json","a") as outfile:
-            outfile.write(converter)
+        #with open ("exemplo.json","a") as outfile:
+            #outfile.write(converter)
 
     MaximoId -= 1
     id += 1
